@@ -4,3 +4,6 @@ gin
 coffee
 milk
 vodka
+orange juice
+pineapple juice 
+apple juice
